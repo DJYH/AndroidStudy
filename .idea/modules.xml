@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AndoirdStudy.iml" filepath="$PROJECT_DIR$/AndoirdStudy.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/locationlogger1/locationlogger1.iml" filepath="$PROJECT_DIR$/locationlogger1/locationlogger1.iml" />
       <module fileurl="file://$PROJECT_DIR$/myvalue/myvalue.iml" filepath="$PROJECT_DIR$/myvalue/myvalue.iml" />
       <module fileurl="file://$PROJECT_DIR$/quickcoding161110/quickcoding161110.iml" filepath="$PROJECT_DIR$/quickcoding161110/quickcoding161110.iml" />
     </modules>

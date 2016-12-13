@@ -9,6 +9,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/locationlogger1" />
             <option value="$PROJECT_DIR$/myvalue" />
             <option value="$PROJECT_DIR$/quickcoding161110" />
           </set>
@@ -17,6 +18,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/locationlogger1" />
             <option value="$PROJECT_DIR$/myvalue" />
             <option value="$PROJECT_DIR$/quickcoding161110" />
           </set>
